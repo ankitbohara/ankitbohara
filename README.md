@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 # 💫 About Me:
 I'm currently working at Aamod itsolution as react js developer<br>
 
@@ -19,4 +16,3 @@ I'm currently working at Aamod itsolution as react js developer<br>
 [![](https://visitcount.itsvg.in/api?id=ankitbohara&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
